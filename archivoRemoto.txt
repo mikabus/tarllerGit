@@ -1,3 +1,5 @@
 Inicio de git remote
 
 -Se da inicio a la rama tallerGit-Antony.
+
+Se agrega cambio remoto.
